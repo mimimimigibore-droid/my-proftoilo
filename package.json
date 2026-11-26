@@ -1,0 +1,9 @@
+{
+  "name": "asinakech-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Asinakech's personal portfolio website",
+  "scripts": {
+    "start": "python -m http.server 5500"
+  }
+}
